@@ -19,4 +19,11 @@ de la Carrera Licenciatura Multimedial de la Universidad Maimónides</descriptio
 <gap:splash gap:platform="android" gap:qualifier="port-xhdpi" src="res/screen/android/screen-xhdpi-portrait.png" />
     
 <access origin="*" />
+
+
+<gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.9.0">
+<param name="APP_ID" value="651799268253875" />
+<param name="APP_NAME" value="Beanie App" />
+</gap:plugin>
+
 </widget>

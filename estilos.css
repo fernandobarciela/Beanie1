@@ -1,0 +1,66 @@
+/*--------------------------------------------SECCION-1--------------------------------------------*/
+.ui-page{
+background-image:url(img/bg.png);
+}
+
+.ui-content{
+width:100%;
+margin:0px;
+padding:0px;
+}
+
+#logo{
+display:block;
+width:400px;
+height:500px;
+margin:0 auto;
+margin-top:80px;
+}
+
+#divisor{
+display:block;	
+width:520px;
+height:30px;
+margin:0 auto;
+}
+
+#texto_bienvenida{
+width:520px;
+margin:0 auto;
+text-align:center;
+margin-top:60px;
+margin-top:30px;
+}
+
+h1{
+font-family: Abel;
+color:#ebebeb;
+text-transform:uppercase;
+text-shadow:none;
+margin-bottom:-20px;
+font-size:36px;
+}
+
+p{
+font-family: Abel;
+color:#ebebeb;
+text-shadow:none;
+font-size:22px;
+}
+
+#login_btn{
+display:block;
+width:350px;
+height:74px;
+margin:0 auto;
+}
+
+span{
+color:#3DABB9;
+}
+
+footer{
+min-height:20px !important;
+background-color:#3DABB9 !important;
+border:none !important;
+}

@@ -1,4 +1,10 @@
 /*--------------------------------------------SECCION-1--------------------------------------------*/
+
+#seccion1 header{
+display:none;
+height:60px;
+}
+
 .ui-page{
 background-image:url(img/bg.png);
 }
@@ -11,24 +17,23 @@ padding:0px;
 
 #logo{
 display:block;
-width:400px;
-height:500px;
-margin:0 auto;
-margin-top:80px;
+width:200px;
+height:250px;
+margin:0 auto !important;
+margin-top:100px !important;
 }
 
 #divisor{
-display:block;	
-width:520px;
-height:30px;
-margin:0 auto;
+display:block;
+width:200px;
+height:12px;
+margin:0 auto !important;
 }
 
 #texto_bienvenida{
-width:520px;
+width:330px;
 margin:0 auto;
 text-align:center;
-margin-top:60px;
 margin-top:30px;
 }
 
@@ -38,29 +43,29 @@ color:#ebebeb;
 text-transform:uppercase;
 text-shadow:none;
 margin-bottom:-20px;
-font-size:36px;
+font-size:2em;
 }
 
 p{
 font-family: Abel;
 color:#ebebeb;
 text-shadow:none;
-font-size:22px;
-}
-
-#login_btn{
-display:block;
-width:350px;
-height:74px;
-margin:0 auto;
+font-size:1.3em;
 }
 
 span{
 color:#3DABB9;
 }
 
+#login_btn{
+display:block;
+width:200px;
+height:42px;
+margin:0 auto !important;
+}
+
 footer{
-min-height:20px !important;
+min-height:5px !important;
 background-color:#3DABB9 !important;
 border:none !important;
 }

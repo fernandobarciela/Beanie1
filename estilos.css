@@ -20,7 +20,7 @@ display:block;
 width:200px;
 height:250px;
 margin:0 auto !important;
-margin-top:100px !important;
+margin-top:50px !important;
 }
 
 #divisor{
@@ -31,7 +31,7 @@ margin:0 auto !important;
 }
 
 #texto_bienvenida{
-width:330px;
+width:250px;
 margin:0 auto;
 text-align:center;
 margin-top:30px;
@@ -43,14 +43,14 @@ color:#ebebeb;
 text-transform:uppercase;
 text-shadow:none;
 margin-bottom:-20px;
-font-size:2em;
+font-size:1.5em;
 }
 
 p{
 font-family: Abel;
 color:#ebebeb;
 text-shadow:none;
-font-size:1.3em;
+font-size:1.1em;
 }
 
 span{
